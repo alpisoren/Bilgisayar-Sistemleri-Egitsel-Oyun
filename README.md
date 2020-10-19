@@ -1,5 +1,6 @@
 # Bilgisayar-Sistemleri-Egitsel-Oyun
-KONU : Bilgisayar Sistemleri
+KONU : Bilgisayar Sistemleri 
+KULLANILAN PROGRAM : Adobe Flash Professional
 
 Bilişim teknolojileri ve yazılım dersinde bulunan bilişim teknolojileri ünitesi kapsamında yer alan bilgisayar sistemleri konusu ele alınmaktadır. Bu konuda üzerinde durulacak önemli noktalar somut kavramlardan çok soyut kavramların öğretimi olacaktır. Örneğin; bilgisayardan söz edildiği zaman birbirini  tamamlayan iki kavram akla gelir. Bunlardan birincisi donanım, ikincisi ise yazılımdır. Yazılım kavramı soyut kavramlardır. Öğrenciler tarafından öğrenilmesi zor olacağından somutlaştırılmış şeklinde oluşturulması gerekmektedir.  
 Bir diğer önemli nokta  bellek birimleridir.Bilgisayarda yapılan her işlem 1 ve 0’lardan oluşturulan anlamlı sonuçların mantığına dayanarak gerçekleştirilir. Ancak öğrencileri birimlerin dönüştürlmesinde zorluk çektikleri görüşmeler sonucunda belirlenmiştir.
